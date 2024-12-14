@@ -1,0 +1,13 @@
+body{
+    background-color: #24353F;
+}
+.container .group{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.form-control:focus {
+    box-shadow: none !important;
+}
+nav {
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+    color : white;
+}
